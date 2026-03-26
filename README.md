@@ -31,8 +31,8 @@ This repo is designed to help you crack interviews from **basic to advanced leve
 </p>
 
 <p align="center">
-  <a href="https://github.com/pranav-infrabuild/Zero-to-Hero/blob/main/‎3.TechinalPreparation/TechinalPreparation.md">
-    <img src="https://img.shields.io/badge/HR_Interview_Prep-Click_Here-blue?style=for-the-badge" />
+  <a href="https://github.com/pranav-infrabuild/Zero-to-Hero/blob/main/3.TechinalPreparation/TechinalPreparation.md">
+    <img src="https://img.shields.io/badge/Technical_Preparation-Click_Here-green?style=for-the-badge" />
   </a>
 </p>
 ---
