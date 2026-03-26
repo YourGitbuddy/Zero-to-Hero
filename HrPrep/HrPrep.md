@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F72B&center=true&vCenter=true&width=800&lines=DevOps+Interview+Preparation;Zero+to+Hero+🚀;Crack+Your+Next+Job" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F72B&center=true&vCenter=true&width=800&lines=Interview+Preparation;Zero+to+Hero+🚀;Crack+Your+Next+Job" />
 </p>
 
 <p align="center">
@@ -152,3 +152,31 @@
 > I would be happy to understand your **best offer**.
 
 ---
+### 17. When can I schedule your interview❓
+
+### ✅ Answer:
+> I am currently working remotely, so I am **flexible with timings**.  
+> You can schedule the interview anytime—just please share the **invitation link at least one day in advance**.
+
+---
+
+### 18. What is your team size❓
+
+### ✅ Answer:
+> Our team has around **10 members**:  
+> • 3 Developers  
+> • 3 DevOps Engineers  
+> • 1 Tester  
+> • 1 Team Lead  
+
+---
+
+### 19. Since there are 3 of you, are you working in rotational shifts❓
+
+### ✅ Answer:
+> No, we work in a **general shift from 9 AM to 6 PM**.  
+> As we handle multiple projects, we manage everything within this schedule.
+
+---
+
+## 🚀 Keep Learning & Keep Growing
